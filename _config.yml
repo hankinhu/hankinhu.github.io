@@ -13,7 +13,7 @@ title                    : "Hangkun Hu"
 title_separator          : "-"
 name                     : &name "Hangkun Hu"
 description              : &description "I am a doctoral candidate in Mathematics at Nanjing Normal University. My research interests focus on the application of algebraic geometry  to complex network game problems, and the application of polynomial optimization to operations research in the economic field."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://hankinhu.github.io/HangkunHu.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://hankinhu.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
