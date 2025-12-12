@@ -20,5 +20,5 @@ The Topics I Am Interested In
 --------
 * The number of complex solutions of polynomials has been well estimated by the Bernstein-Khovanskii-Kushnirenko (BKK) Theorem. Then, for more complex network structures, the number of quasi-Nash equilibria in network-based games can also be estimated to a certain extent using the BKK Theorem. What is the relationship between the number of quasi-Nash equilibria and the network structure? Can we go one step further to directly estimate the number of Nash equilibria?
 * What is the relationship between the number, geometric configuration, and parameters of Nash equilibrium solutions? How to describe the bifurcation process of the solutions?
-
+![Simple Simulation on the Variation of Quasi-Nash Equilibrium Count with Network Average Degree](/images/Figure_1.png)
 
